@@ -1,4 +1,4 @@
-# **Gerador de Dados para Banco**
+# **Gerador de Dados integrado com GPT**
 ## 🟦 React
 
 <img width= '250' src= 'https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg'></img>
@@ -6,13 +6,10 @@
 ### **📌 Sobre o Projeto**
 Este projeto é um gerador de dados aleatórios para popular bancos de dados, integrado com a **API da OpenAI**. Ele permite gerar **CPFs, nomes, números de telefone e strings personalizadas**, retornando um **script SQL pronto** para inserção.
 
-Além disso, o projeto conta com um **modal estilizado no padrão iOS**, suporte para **cópia e exportação dos dados gerados** e será expandido para suportar **leitura de arquivos XLS**.
-
 ---
 
 ## **🚀 Tecnologias Utilizadas**
 - **React** (Front-end)
-- **Node.js + Express** (Back-end para proteger a API Key)
 - **Axios** (Para comunicação com a API da OpenAI)
 - **dotenv** (Para variáveis de ambiente)
 - **XLSX.js** (Para leitura de arquivos Excel - funcionalidade futura)
@@ -75,7 +72,6 @@ A aplicação estará disponível em:
 ---
 
 ## **📝 Funcionalidades Futuras**
-✅ Melhorias no layout seguindo o padrão **iOS**  
 ✅ Proteção da API Key com **Node.js e Express**  
 🔜 Suporte para leitura de **arquivos XLS** e conversão em SQL  
 🔜 Melhorias no sistema de exportação  
