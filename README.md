@@ -1,7 +1,7 @@
 # **Gerador de Dados para Banco**
 ## 🟦 React
 
-![React Logo](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg)
+<img width= '250' src= 'https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg'></img>
 
 ### **📌 Sobre o Projeto**
 Este projeto é um gerador de dados aleatórios para popular bancos de dados, integrado com a **API da OpenAI**. Ele permite gerar **CPFs, nomes, números de telefone e strings personalizadas**, retornando um **script SQL pronto** para inserção.
